@@ -1,0 +1,7 @@
+{
+  "name": "Spatial Topography Composer",
+  "description": "A high-fidelity spatial design tool for projection mapping and generative terrain simulation. Features boid swarm intelligence, fluid dynamics, and hardware sensor integration via WebSerial.",
+  "requestFramePermissions": [
+    "serial"
+  ]
+}
